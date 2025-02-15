@@ -25,7 +25,7 @@
                 </div>
                 <p class="text-white/70 mb-6 leading-relaxed">
                     Aplikasi pencatatan online yang membantu Anda menyimpan dan mengelola catatan dengan mudah.
-                    Dibuat menggunakan Laravel dan Tailwind CSS untuk memberikan pengalaman yang modern dan responsif.
+                    Dibuat menggunakan Laravel dan Tailwind CSS dan Particle JS untuk memberikan pengalaman yang modern dan responsif.
                 </p>
                 <div class="flex items-center space-x-3 text-white/60">
                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
